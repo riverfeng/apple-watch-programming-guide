@@ -8,10 +8,10 @@
  - 待添加章节的中文翻译 - [Interface Navigation](watchkit-apps/interface-navigation.md)（[vectxi](https://github.com/vectxi) 已认领）
  - 待添加章节的中文翻译 - [Interface Objects](watchkit-apps/interface-objects.md)
  - 待添加章节的中文翻译 - [Text and Labels](watchkit-apps/text-and-labels.md)
- - 待添加章节的中文翻译 - [Images](watchkit-apps/images.md)
+ - 待添加章节的中文翻译 - [Images](watchkit-apps/images.md)（[wanningliu](https://github.com/wanningliu) 已认领）
  - 待添加章节的中文翻译 - [Tables](watchkit-apps/tables.md)
  - 待添加章节的中文翻译 - [Context Menus](watchkit-apps/context-menus.md)
- - 待添加章节的中文翻译 - [Settings](watchkit-apps/settings.md)
+ - 待添加章节的中文翻译 - [Settings](watchkit-apps/settings.md)（[wanningliu](https://github.com/wanningliu) 已认领）
 - Glances
  - 待添加章节的中文翻译 - [Glance Essentials](glances/glance-essentials.md)（[staker](https://github.com/staker) 已认领）
  - 待添加章节的中文翻译 - [Managing Your Glance Interface](glances/managing-your-glance-interface.md)（[staker](https://github.com/staker) 已认领）

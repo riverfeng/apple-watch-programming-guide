@@ -13,8 +13,8 @@
  - 待添加章节的中文翻译 - [Context Menus](watchkit-apps/context-menus.md)
  - 待添加章节的中文翻译 - [Settings](watchkit-apps/settings.md)
 - Glances
- - 待添加章节的中文翻译 - [Glance Essentials](glances/glance-essentials.md)
- - 待添加章节的中文翻译 - [Managing Your Glance Interface](glances/managing-your-glance-interface.md)
+ - 待添加章节的中文翻译 - [Glance Essentials](glances/glance-essentials.md)（[staker](https://github.com/staker) 已认领）
+ - 待添加章节的中文翻译 - [Managing Your Glance Interface](glances/managing-your-glance-interface.md)（[staker](https://github.com/staker) 已认领）
 - Notifications
  - 待添加章节的中文翻译 - [Notification Essentials](notifications/notification-essentials.md)（[riverfeng](https://github.com/riverfeng) 已认领）
  - 待添加章节的中文翻译 - [Managing a Custom Long Look Interface](notifications/managing-a-custom-long-look-interface.md)（[riverfeng](https://github.com/riverfeng) 已认领）

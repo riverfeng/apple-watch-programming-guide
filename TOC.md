@@ -16,5 +16,5 @@
  - 待添加章节的中文翻译 - [Glance Essentials](glances/glance-essentials.md)
  - 待添加章节的中文翻译 - [Managing Your Glance Interface](glances/managing-your-glance-interface.md)
 - Notifications
- - 待添加章节的中文翻译 - [Notification Essentials](notifications/notification-essentials.md)
- - 待添加章节的中文翻译 - [Managing a Custom Long Look Interface](notifications/managing-a-custom-long-look-interface.md)
+ - 待添加章节的中文翻译 - [Notification Essentials](notifications/notification-essentials.md)（[riverfeng](https://github.com/riverfeng) 已认领）
+ - 待添加章节的中文翻译 - [Managing a Custom Long Look Interface](notifications/managing-a-custom-long-look-interface.md)（[riverfeng](https://github.com/riverfeng) 已认领）

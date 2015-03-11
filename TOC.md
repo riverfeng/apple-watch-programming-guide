@@ -7,9 +7,9 @@
  - 待添加章节的中文翻译 - [App Essentials](watchkit-apps/app-essentials.md)（[vectxi](https://github.com/vectxi) 已认领）
  - 待添加章节的中文翻译 - [Interface Navigation](watchkit-apps/interface-navigation.md)（[vectxi](https://github.com/vectxi) 已认领）
  - 待添加章节的中文翻译 - [Interface Objects](watchkit-apps/interface-objects.md)
- - 待添加章节的中文翻译 - [Text and Labels](watchkit-apps/text-and-labels.md)
+ - 待添加章节的中文翻译 - [Text and Labels](watchkit-apps/text-and-labels.md)（[7heaven](https://github.com/7heaven) 已认领）
  - 待添加章节的中文翻译 - [Images](watchkit-apps/images.md)（[wanningliu](https://github.com/wanningliu) 已认领）
- - 待添加章节的中文翻译 - [Tables](watchkit-apps/tables.md)
+ - 待添加章节的中文翻译 - [Tables](watchkit-apps/tables.md)（[7heaven](https://github.com/7heaven) 已认领）
  - 待添加章节的中文翻译 - [Context Menus](watchkit-apps/context-menus.md)
  - 待添加章节的中文翻译 - [Settings](watchkit-apps/settings.md)（[wanningliu](https://github.com/wanningliu) 已认领）
 - Glances

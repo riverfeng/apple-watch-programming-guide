@@ -4,8 +4,8 @@
  - 待添加章节的中文翻译 - [WatchKit App Architecture](overview/watchkit-app-architecture.md)（[YouXianMing](https://github.com/YouXianMing) 已认领）
  - 待添加章节的中文翻译 - [Leveraging iOS Technologies](overview/leveraging-ios-technologies.md)（[YouXianMing](https://github.com/YouXianMing) 已认领）
 - WatchKit Apps
- - 待添加章节的中文翻译 - [App Essentials](watchkit-apps/app-essentials.md)
- - 待添加章节的中文翻译 - [Interface Navigation](watchkit-apps/interface-navigation.md)
+ - 待添加章节的中文翻译 - [App Essentials](watchkit-apps/app-essentials.md)（[vectxi](https://github.com/vectxi) 已认领）
+ - 待添加章节的中文翻译 - [Interface Navigation](watchkit-apps/interface-navigation.md)（[vectxi](https://github.com/vectxi) 已认领）
  - 待添加章节的中文翻译 - [Interface Objects](watchkit-apps/interface-objects.md)
  - 待添加章节的中文翻译 - [Text and Labels](watchkit-apps/text-and-labels.md)
  - 待添加章节的中文翻译 - [Images](watchkit-apps/images.md)
